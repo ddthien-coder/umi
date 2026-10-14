@@ -30,7 +30,7 @@
     "@types/sockjs": "0.3.32",
     "@types/spdy": "3.4.4",
     "@umijs/utils": "3.2.19",
-    "compression": "1.7.4",
+    "compression": "1.8.2",
     "express": "4.17.1",
     "http-proxy-middleware": "1.0.5",
     "immer": "7.0.5",
